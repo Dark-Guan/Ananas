@@ -1,5 +1,5 @@
 #Ananas
-This is an Arduino based program for step motor controller,Ananas.
+This is an Arduino based program for step motor close-loop controller,Ananas.
 
 Thank You for the list:(In no particular order)
 
