@@ -12,4 +12,4 @@ Necessary library is in the file, lib.zip. Please extract them into the "library
 
 This program is written with Arduino Eclipse Plug-in ,So if you want to Run it with the Arduino IDE ,you should modify some details.
 
-Soon We will publish a version for Arduino IDE.
+In the folder 'Arduino IDE',there is a Arduino IDE version.

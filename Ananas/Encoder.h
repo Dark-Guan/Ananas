@@ -3,7 +3,7 @@
  *  Copyright (c) 2015 Dark Guan <tickel.guan@gmail.com>                    *
  *	This file is part of Ananas.                                            *
  *                                                                          *
- *  Ananas is free software: you can redistribute it and/or modify         *
+ *  Ananas is free software: you can redistribute it and/or modify          *
  *  it under the terms of the GNU General Public License as published by    *
  *  the Free Software Foundation, either version 3 of the License, or       *
  *  (at your option) any later version.                                     *
@@ -17,7 +17,23 @@
  *   along with Ananas.  If not, see <http://www.gnu.org/licenses/>.       *
  ****************************************************************************
 */
-#include "arduino.h"
-#include "Ananas.h"
 
+/*
+ * Encoder.h
+ *
+ *  Created on: 2015Äê12ÔÂ8ÈÕ
+ *      Author: Dark
+ */
 
+#ifndef ENCODER_H_
+#define ENCODER_H_
+
+void initialEncoder();
+
+float getPosition();
+
+void changeDir();
+
+long getEncodercount();
+
+#endif /* ENCODER_H_ */
