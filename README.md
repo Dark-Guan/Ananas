@@ -27,14 +27,14 @@ If you find my work useful and you want to encourage the development of more fre
 
 5.Internal PID Speed Controller
 
-
+#Thanks
 Thank You for the list:(In no particular order)
 
 - Arduino eclipse extensions [http://eclipse.baeyens.it/](http://eclipse.baeyens.it/)
 - Luffy For TLC5615 library
 - mylife1213@gmail.com for QUN 
 
-
+#Release And Test
 Necessary library is in the file, lib.zip. Please extract them into the "library" folder in Arduino installation directory.
 
 This program is written with Arduino Eclipse Plug-in ,So if you want to Run it with the Arduino IDE ,you should modify some details.
