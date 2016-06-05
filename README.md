@@ -16,10 +16,15 @@ If you find my work useful and you want to encourage the development of more fre
 <img alt="Alipay" style="border-width:0"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-alipay.png" />
 
 ##feature
+
 1.AMS5600 and Quadrature Encoder Supported
+
 2.Intelligent Tuning of the Motor Current
+
 3.Up to 30Khz Pulse Input Supported
+
 4.Up to 60Khz Stepper Driver PWM with Trapezoid Acceleration
+
 5.Internal PID Speed Controller
 
 
