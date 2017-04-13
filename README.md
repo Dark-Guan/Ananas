@@ -15,6 +15,8 @@ If you find my work useful and you want to encourage the development of more fre
 <a rel="donate2" href="https://raw.githubusercontent.com/Dark-Guan/AnanasBoard/master/apcazu6ntbjy04py09.png">
 <img alt="Alipay" style="border-width:0"  src="https://github.com/Dark-Guan/AnanasBoard/blob/master/donate-with-alipay.png" />
 
+
+---
 ##feature
 
 1.AMS5600 and Quadrature Encoder Supported
